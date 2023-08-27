@@ -1,0 +1,2 @@
+VGG16/vgg16.npy filter=lfs diff=lfs merge=lfs -text
+MultipleChoice/Data/101_ObjectCategories/* filter=lfs diff=lfs merge=lfs -text
